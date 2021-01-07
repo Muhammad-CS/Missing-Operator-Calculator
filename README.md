@@ -9,7 +9,7 @@ If you still confused what is the idea of this program then check this website :
 https://www.dcode.fr/missing-operators-equation-solver
 The only thing that is difference is my tool makes cases for parenthesis as well
 
-#Usage
+##Usage
 just edit the first string variable to the input that you want for example 1?2?3 will give these outputs:
 
 (1)+((2+3)) = 6
@@ -67,8 +67,11 @@ just edit the first string variable to the input that you want for example 1?2?3
 ((1*2))*(3) = 6
 
 ((1*2))/(3) = 0.6666666666666666
-((1/2))+(3) = 3.5
-((1/2))-(3) = -2.5
-((1/2))*(3) = 1.5
-((1/2))/(3) = 0.16666666666666666
 
+((1/2))+(3) = 3.5
+
+((1/2))-(3) = -2.5
+
+((1/2))*(3) = 1.5
+
+((1/2))/(3) = 0.16666666666666666
