@@ -3,10 +3,12 @@ Tool/Solver to solve fill the blanks calculations where the operators are missin
 A calculation/equation with blanks is a mathematical exercise consisting of finding the missing operation 
 (addition, subtraction, multiplication, division)
 
-I wrote this small program to solve problems like this : 1?2?3?4 = 10 
+I wrote this small program to solve problems like this : 
+> 1?2?3?4 = 10 
 
 If you still confused what is the idea of this program then check this website :
-https://www.dcode.fr/missing-operators-equation-solver
+> https://www.dcode.fr/missing-operators-equation-solver
+
 The only thing that is difference is my tool makes cases for parenthesis as well
 
 ## Usage
