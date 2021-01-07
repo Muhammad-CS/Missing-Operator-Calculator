@@ -9,7 +9,7 @@ If you still confused what is the idea of this program then check this website :
 https://www.dcode.fr/missing-operators-equation-solver
 The only thing that is difference is my tool makes cases for parenthesis as well
 
-##Usage
+## Usage
 just edit the first string variable to the input that you want for example 1?2?3 will give these outputs:
 
 (1)+((2+3)) = 6
